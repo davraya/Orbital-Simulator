@@ -1,0 +1,16 @@
+﻿  Acceleration.cpp
+  main.cpp
+  OrbitalObject.cpp
+  Physics.cpp
+  position.cpp
+  ship.cpp
+  TestAcceleration.cpp
+  TestHelper.cpp
+  TestPosition.cpp
+  tests.cpp
+  TestVelocity.cpp
+  uiDraw.cpp
+  uiInteract.cpp
+  Velocity.cpp
+  Generating Code...
+  Lab07.vcxproj -> C:\Users\david\Desktop\My Stuff\Orbital-Simulator\x64\Debug\Lab07.exe

@@ -1,0 +1,5 @@
+C:\Users\cummi\Documents\Spring_2023\cse231\orbital\x64\Debug\Lab07.exe
+C:\Users\david\Downloads\orbital (6)\orbital\x64\Debug\Lab07.exe
+C:\Users\cummi\Downloads\orbital_updated\orbital (6)\orbital\x64\Debug\Lab07.exe
+C:\Users\david\Downloads\orbital_updated\orbital\x64\Debug\Lab07.exe
+C:\Users\david\Desktop\My Stuff\Orbital-Simulator\x64\Debug\Lab07.exe
